@@ -1,0 +1,13 @@
+.textbox {
+    width: 70%;
+    margin: 10px auto;
+}
+
+.textbox> h1 {
+    color: #333333;
+    font-weight: normal;   
+}
+
+.textbox .action button {
+    margin: 20px 10px 0 10px;
+}

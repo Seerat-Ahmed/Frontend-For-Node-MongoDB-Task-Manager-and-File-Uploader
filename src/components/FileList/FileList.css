@@ -1,0 +1,18 @@
+.image {
+    border: 1px solid #ddd; /* Gray border */
+    border-radius: 4px;  /* Rounded border */
+    padding: 5px; /* Some padding */
+    width: 100%; /* Set a small width */
+    margin-bottom: 8px;
+}
+
+/* Add a hover effect (blue shadow) */
+.image:hover {
+    box-shadow: 0 4px 10px 0 rgba(0,0,0,0.2);
+}
+
+.file {
+    width: 190px;
+    float: left;
+    margin-left: 20px;
+}
